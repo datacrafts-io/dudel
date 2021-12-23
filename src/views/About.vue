@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>REALLY WORKING</h1>
+    <h1>PREVIEW MODE</h1>
   </div>
 </template>
