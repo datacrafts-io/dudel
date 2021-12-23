@@ -1,0 +1,15 @@
+.transition-container
+  display: contents
+
+.fade
+  &-enter-active,
+  &-leave-active
+    transition: all 0.3s
+    opacity: 1
+
+  &-enter,
+  &-leave-to
+    opacity: 0
+
+  &-move
+    transition: transform 0.5s
